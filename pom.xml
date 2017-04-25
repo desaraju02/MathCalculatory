@@ -3,11 +3,15 @@
   <groupId>com.nag</groupId>
   <artifactId>MathCalculatory</artifactId>
   <version>0.0.2-SNAPSHOT</version>
+
   
   <scm>
   	<url>https://github.com/desaraju02/MathCalculatory</url>
   	<connection>scm:git:https://github.com/desaraju02/MathCalculatory.git</connection>
-    <tag>HEAD</tag>
+
+
+    <tag>MathCalculatory-0.0.2</tag>
+
   </scm>
   
   <build>
