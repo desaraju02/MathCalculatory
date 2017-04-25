@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.nag</groupId>
   <artifactId>MathCalculatory</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2</version>
 
   
   <scm>
@@ -10,6 +10,7 @@
   	<connection>scm:git:https://github.com/desaraju02/MathCalculatory.git</connection>
 
 
+    <tag>MathCalculatory-0.0.2</tag>
   </scm>
   
   <build>
