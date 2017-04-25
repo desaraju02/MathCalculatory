@@ -19,4 +19,13 @@ public class CalculatorBusinessImpl {
 		else
 			return n+" is not divisible by 10";
 	}
+	
+	public String isDivisbleBy5(int n)
+	{
+		if(n%5 == 0)
+			return n+" is divisible by 5";
+		else
+			return n+" is not divisible by 5";
+	}
+	
 }
