@@ -3,6 +3,13 @@ package com.nag;
 public class CalculatorBusinessImpl {
 	
 	
+	
+	
+	public CalculatorBusinessImpl() {
+		
+	}
+
+
 	public String isEven(int n)
 	{
 		if(n%2 == 0)
@@ -27,5 +34,7 @@ public class CalculatorBusinessImpl {
 		else
 			return n+" is not divisible by 5";
 	}
+	
+	
 	
 }
