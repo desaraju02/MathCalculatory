@@ -13,6 +13,7 @@ public class CalculatorBusinessImpl {
 
 	public void setStr(String str) {
 		this.str = str;
+
 	}
 
 
@@ -40,5 +41,7 @@ public class CalculatorBusinessImpl {
 		else
 			return n+" is not divisible by 5";
 	}
+	
+	
 	
 }
