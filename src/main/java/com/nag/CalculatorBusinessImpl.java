@@ -4,6 +4,8 @@ public class CalculatorBusinessImpl {
 	
 	private String str;
 	
+	private int n;
+	
 	public String getStr() {
 		return str;
 	}
