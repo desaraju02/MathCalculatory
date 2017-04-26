@@ -2,12 +2,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.nag</groupId>
   <artifactId>MathCalculatory</artifactId>
-  <version>0.0.3</version>
+  <version>0.0.4-SNAPSHOT</version>
   
   <scm>
   	<url>https://github.com/desaraju02/MathCalculatory</url>
   	<connection>scm:git:https://github.com/desaraju02/MathCalculatory.git</connection>
-    <tag>MathCalculatory-0.0.2-Hotfix</tag>
+    <tag>MathCalculatory-0.0.1-Hotfix</tag>
   </scm>
   
   <build>
