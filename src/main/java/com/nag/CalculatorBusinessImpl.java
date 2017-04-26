@@ -2,7 +2,18 @@ package com.nag;
 
 public class CalculatorBusinessImpl {
 	
+	private String str;
 	
+	public String getStr() {
+		return str;
+	}
+
+
+	public void setStr(String str) {
+		this.str = str;
+	}
+
+
 	public String isEven(int n)
 	{
 		if(n%2 == 0)
