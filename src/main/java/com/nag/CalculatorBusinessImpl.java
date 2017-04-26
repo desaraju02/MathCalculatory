@@ -2,11 +2,18 @@ package com.nag;
 
 public class CalculatorBusinessImpl {
 	
+	private String str;
 	
+	private int n;
 	
-	
-	public CalculatorBusinessImpl() {
-		
+	public String getStr() {
+		return str;
+	}
+
+
+	public void setStr(String str) {
+		this.str = str;
+
 	}
 
 
